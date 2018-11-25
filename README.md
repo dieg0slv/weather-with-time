@@ -43,3 +43,12 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 # weather-with-time
+
+In order to use this app, you have to enable cors on your browser. 
+
+CORS enabling extesion for Chrome: https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=en
+
+CORS enabling extesion for Firefox: https://addons.mozilla.org/en-US/firefox/addon/cors-everywhere/
+
+
+
