@@ -1,6 +1,3 @@
-// React
-import React from 'react';
-
 // Redux
 import { connect } from 'react-redux';
 

@@ -27,7 +27,7 @@ class Searchbar extends PureComponent {
 
     render() {
         const { local } = this.state;
-        const {style} = this.props;
+        const { style } = this.props;
         return (
             <Fragment>
                 <TextField

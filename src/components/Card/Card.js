@@ -2,8 +2,6 @@ import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import { withStyles } from '@material-ui/core/styles';
 import Card from '@material-ui/core/Card';
-import CardContent from '@material-ui/core/CardContent';
-import Typography from '@material-ui/core/Typography';
 import Clock from '../Clock';
 
 const styles = {
@@ -39,8 +37,6 @@ class MediaCard extends Component {
           <br />
           {parseInt((forecast.currently.temperature - 32) / 1.8)}ºC
         </p>
-        <CardContent>
-        </CardContent>
       </Card>
     );
   }
